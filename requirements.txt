@@ -1,0 +1,24 @@
+# Projet Hadoop / PySpark - Impact de l'IA generative sur les etudiants
+
+# pip install -r requirements.txt 
+
+ 
+
+pyspark==4.1.1          
+findspark==2.0.1        
+ 
+#  Notebooks / environnement de dev 
+jupyter==1.1.1
+ipykernel==6.29.5
+ 
+#  Manipulation et analyse de donnees
+pandas==2.2.3
+numpy==1.26.4
+ 
+#  Visualisation 
+matplotlib==3.9.2
+seaborn==0.13.2
+streamlit==1.40.1
+ 
+#  Machine learning 
+scikit-learn==1.5.2
